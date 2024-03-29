@@ -70,7 +70,7 @@
 
 ###
 #### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
@@ -80,3 +80,6 @@
 - 💬 Ask me about **Cloud and DevOps**
 - 📫 How to reach me **[singh.shikhar0712@gmail.com](mailto:singh.shikhar0712@gmail.com)**
 - ⚡ Fun fact **I create lots of bugs**
+
+  [![An image of @quirkyxcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quirkyxcoder)](https://holopin.io/@quirkyxcoder)
+
