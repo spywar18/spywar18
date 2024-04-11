@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1EF2F7&background=25FF5600&center=true&vCenter=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Shikhar+Singh;I+am+Web+Developer;and+a+Google+Cloud+Enthusiast" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1EF2F7&background=25FF5600&center=true&vCenter=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Shikhar+Singh;I+am+a+Developer+of+web;and+a+Google+Cloud+Enthusiast+!!" alt="Typing SVG" /></a>
 
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shikharsingh0712/" target="_blank" rel="noreferrer">Shikhar</a> is a passionate Cloud Technology Enthusiast from India, working on Google Cloud Platform. Feel free to reach out for any Freelance Projects.</font></h3>
 
