@@ -80,7 +80,7 @@
 
 - 💬 Ask me about **Cloud and DevOps**
 - 📫 How to reach me **[singh.shikhar0712@gmail.com](mailto:singh.shikhar0712@gmail.com)**
-- ⚡ Fun fact **I create lots of bugs**
+- ⚡ **keep hustlin', keep buildin'**
 
   [![An image of @quirkyxcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/quirkyxcoder)](https://holopin.io/@quirkyxcoder)
 
