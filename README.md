@@ -11,7 +11,6 @@
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
-
 <p align="left">Social to Connect :)</p>
 
 ###
